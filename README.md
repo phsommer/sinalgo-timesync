@@ -9,7 +9,7 @@ Usage:
     cd Sinalgo
     ant Sinalgo
 
-Modify "./Sinalgo/src/projects/clocksync/CustomGlobal.javae" to change simulation parameters.
+Modify "./Sinalgo/src/projects/clocksync/CustomGlobal.java" to change simulation parameters.
 
 Protocol implementations can be found in "Sinalgo/src/projects/clocksync/nodes/nodeImplementations/":
 
